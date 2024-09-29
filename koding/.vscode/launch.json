@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open Daftar.html",
+            "file": "C:\\Users\\lucky\\Pictures\\koding\\Sign-up.html"
+        }
+    ]
+}
